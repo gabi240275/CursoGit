@@ -1,3 +1,25 @@
+body {
+    background-color: pink;
+}
+
 p {
+    color: red;
+}
+
+h1 {
+    color: aqua;
+}
+
+.buscador {
+    border: 1px solid black;
+}
+
+a {
+    font-family: Arial;
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
     color: red;
 }
